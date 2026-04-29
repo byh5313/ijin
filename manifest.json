@@ -1,0 +1,25 @@
+{
+  "name": "이진이의 하루",
+  "short_name": "이진이의 하루",
+  "description": "할아버지 할머니를 위한 이진이 성장 앨범",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDF6EC",
+  "theme_color": "#E07A5F",
+  "orientation": "portrait",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
